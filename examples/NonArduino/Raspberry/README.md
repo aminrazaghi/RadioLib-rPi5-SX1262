@@ -16,7 +16,7 @@
 
 
 # Commands:
-
+```console
 git clone https://github.com/jgromes/RadioLib.git
 
 sudo apt install git build-essential libgpiod-dev
@@ -24,4 +24,4 @@ cd RadioLib/examples/NonArduino/Raspberry/
 sudo ./clean.sh
 sudo ./build.sh
 sudo ./build/rpi-sx1261
-
+```
